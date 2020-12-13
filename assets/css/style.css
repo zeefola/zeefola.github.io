@@ -1547,3 +1547,9 @@ p {
   color:#00A78E;
   padding-bottom: 10px;
 }
+
+@media (max-width: 900px) {
+  img#optional {
+    display: none;
+  }
+}
